@@ -1,4 +1,4 @@
-package Lab3.Network;
+package OOP2.Network;
 
 
 /**

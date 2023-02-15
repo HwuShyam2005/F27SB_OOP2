@@ -33,20 +33,7 @@ public class Post
     /**
      * Record one more 'Like' indication from a user.
      */
-    public void like()
-    {
-        likes++;
-    }
-
-    /**
-     * Record that a user has withdrawn his/her 'Like' vote.
-     */
-    public void unlike()
-    {
-        if (likes > 0) {
-            likes--;
-        }
-    }
+    
 
     /**
      * Add a comment to this post.
